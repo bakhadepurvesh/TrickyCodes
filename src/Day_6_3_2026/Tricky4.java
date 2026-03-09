@@ -11,3 +11,5 @@ public class Tricky4 {
         }
     }
 }
+// 4
+//
